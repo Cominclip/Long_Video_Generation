@@ -1,8 +1,7 @@
 # Long_Video_Generation
-**A pipeline to generate long videos according to text prompt**  
-[Xinchen Zhang\](https://cominclip.github.io/), 
+>**A pipeline to generate long videos according to text prompt**  
+>[Xinchen Zhang](https://cominclip.github.io/)
 <br>**Tsinghua University**<br>
-
 ## Pipeline
 
 ![](assets/pipeline.png)
